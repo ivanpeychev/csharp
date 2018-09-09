@@ -1,0 +1,9 @@
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\JSON\bin\Debug\JSON.exe.config
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\JSON\bin\Debug\JSON.exe
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\JSON\bin\Debug\JSON.pdb
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\JSON\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\JSON\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\JSON\obj\Debug\JSON.csprojResolveAssemblyReference.cache
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\JSON\obj\Debug\JSON.csproj.CoreCompileInputs.cache
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\JSON\obj\Debug\JSON.exe
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\JSON\obj\Debug\JSON.pdb

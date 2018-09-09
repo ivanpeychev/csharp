@@ -1,0 +1,7 @@
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\DBConnection\bin\Debug\DBConnection.exe.config
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\DBConnection\bin\Debug\DBConnection.exe
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\DBConnection\bin\Debug\DBConnection.pdb
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\DBConnection\obj\Debug\DBConnection.exe
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\DBConnection\obj\Debug\DBConnection.pdb
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\DBConnection\obj\Debug\DBConnection.csprojResolveAssemblyReference.cache

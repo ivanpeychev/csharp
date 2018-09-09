@@ -1,0 +1,6 @@
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\FileLog\bin\Debug\FileLog.dll
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\FileLog\bin\Debug\FileLog.pdb
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\FileLog\obj\Debug\FileLog.csproj.CoreCompileInputs.cache
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\FileLog\obj\Debug\FileLog.dll
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\FileLog\obj\Debug\FileLog.pdb
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\FileLog\obj\Debug\FileLog.csprojResolveAssemblyReference.cache

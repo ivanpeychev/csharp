@@ -1,0 +1,6 @@
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\03. Variable in Hexadecimal Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.exe.config
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\03. Variable in Hexadecimal Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.exe
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\03. Variable in Hexadecimal Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.pdb
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\03. Variable in Hexadecimal Format\obj\Debug\04. Unicode Character.csproj.CoreCompileInputs.cache
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\03. Variable in Hexadecimal Format\obj\Debug\_03.Variable_in_Hexadecimal_Format.exe
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\03. Variable in Hexadecimal Format\obj\Debug\_03.Variable_in_Hexadecimal_Format.pdb

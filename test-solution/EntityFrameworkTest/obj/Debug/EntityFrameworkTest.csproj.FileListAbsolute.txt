@@ -1,0 +1,11 @@
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\EntityFrameworkTest\bin\Debug\EntityFrameworkTest.exe.config
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\EntityFrameworkTest\bin\Debug\EntityFrameworkTest.exe
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\EntityFrameworkTest\bin\Debug\EntityFrameworkTest.pdb
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\EntityFrameworkTest\bin\Debug\EntityFramework.dll
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\EntityFrameworkTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\EntityFrameworkTest\bin\Debug\EntityFramework.xml
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\EntityFrameworkTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\EntityFrameworkTest\obj\Debug\EntityFrameworkTest.csprojResolveAssemblyReference.cache
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\EntityFrameworkTest\obj\Debug\EntityFrameworkTest.csproj.CoreCompileInputs.cache
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\EntityFrameworkTest\obj\Debug\EntityFrameworkTest.exe
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\EntityFrameworkTest\obj\Debug\EntityFrameworkTest.pdb

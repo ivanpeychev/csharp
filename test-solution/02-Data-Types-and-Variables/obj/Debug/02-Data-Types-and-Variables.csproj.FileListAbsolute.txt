@@ -1,0 +1,6 @@
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\02-Data-Types-and-Variables\bin\Debug\02-Data-Types-and-Variables.exe.config
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\02-Data-Types-and-Variables\bin\Debug\02-Data-Types-and-Variables.exe
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\02-Data-Types-and-Variables\bin\Debug\02-Data-Types-and-Variables.pdb
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\02-Data-Types-and-Variables\obj\Debug\02-Data-Types-and-Variables.csproj.CoreCompileInputs.cache
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\02-Data-Types-and-Variables\obj\Debug\02-Data-Types-and-Variables.exe
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\02-Data-Types-and-Variables\obj\Debug\02-Data-Types-and-Variables.pdb

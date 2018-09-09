@@ -1,0 +1,6 @@
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\DefiningClassesPart2-Generics\bin\Debug\DefiningClassesPart2-Generics.pdb
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\DefiningClassesPart2-Generics\obj\Debug\DefiningClassesPart2-Generics.csprojResolveAssemblyReference.cache
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\DefiningClassesPart2-Generics\obj\Debug\DefiningClassesPart2-Generics.csproj.CoreCompileInputs.cache
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\DefiningClassesPart2-Generics\obj\Debug\DefiningClassesPart2-Generics.pdb
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\DefiningClassesPart2-Generics\bin\Debug\DefiningClassesPart2-Generics.exe
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\DefiningClassesPart2-Generics\obj\Debug\DefiningClassesPart2-Generics.exe

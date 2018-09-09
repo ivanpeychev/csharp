@@ -1,0 +1,6 @@
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.exe.config
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.exe
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.pdb
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\14. Print the ASCII Table\obj\Debug\14. Print the ASCII Table.csproj.CoreCompileInputs.cache
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.exe
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.pdb

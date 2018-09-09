@@ -1,0 +1,7 @@
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\01-Introduction-to-Programming-15\bin\Debug\01-Introduction-to-Programming-15.exe.config
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\01-Introduction-to-Programming-15\bin\Debug\01-Introduction-to-Programming-15.exe
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\01-Introduction-to-Programming-15\bin\Debug\01-Introduction-to-Programming-15.pdb
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\01-Introduction-to-Programming-15\obj\Debug\01-Introduction-to-Programming-15.csprojResolveAssemblyReference.cache
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\01-Introduction-to-Programming-15\obj\Debug\01-Introduction-to-Programming-15.csproj.CoreCompileInputs.cache
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\01-Introduction-to-Programming-15\obj\Debug\01-Introduction-to-Programming-15.exe
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\01-Introduction-to-Programming-15\obj\Debug\01-Introduction-to-Programming-15.pdb

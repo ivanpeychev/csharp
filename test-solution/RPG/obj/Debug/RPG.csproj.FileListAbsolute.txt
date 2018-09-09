@@ -1,0 +1,7 @@
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\RPG\bin\Debug\RPG.exe.config
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\RPG\bin\Debug\RPG.exe
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\RPG\bin\Debug\RPG.pdb
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\RPG\obj\Debug\RPG.exe
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\RPG\obj\Debug\RPG.pdb
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\RPG\obj\Debug\RPG.csprojResolveAssemblyReference.cache

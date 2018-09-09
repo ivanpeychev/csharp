@@ -1,0 +1,7 @@
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\GSM\bin\Debug\GSM.exe.config
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\GSM\bin\Debug\GSM.exe
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\GSM\bin\Debug\GSM.pdb
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\GSM\obj\Debug\GSM.csprojResolveAssemblyReference.cache
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\GSM\obj\Debug\GSM.csproj.CoreCompileInputs.cache
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\GSM\obj\Debug\GSM.exe
+D:\Desktop\DEV\C#\VS Projects\CSharp Study\GSM\obj\Debug\GSM.pdb
