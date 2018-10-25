@@ -4,13 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Test_1
+class Program
 {
-	class Program
+	static void Main()
 	{
-		static void Main()
-		{
-			
-		}
+        int result;
+        bool check = false;
+        do
+        {
+            Console.WriteLine("Please enter valid integer: ");
+            check = int.TryParse(Console.ReadLine(), out result);
+        }
+        while (!check);
+
+        Console.WriteLine($"Your value is: {result}");
 	}
 }
