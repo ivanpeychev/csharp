@@ -8,20 +8,22 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine(IntegerToBase(3, 2));
-    }
-
-    static string IntegerToBase(int number, int toBase)
-    {
         string result = "";
+
+        int number = 12;
+        int toBase = 2;
+
         int num = number;
 
-        while (num > 0)
+        while (num > toBase)
         {
-            num = (number % toBase);
-            result += num.ToString();
+            result = (toBase - 1) + result ;
+            num -= toBase;
         }
 
-        return result;
+        result = (number % toBase) + result;
+
+        Console.WriteLine(result);
     }
+
 }
