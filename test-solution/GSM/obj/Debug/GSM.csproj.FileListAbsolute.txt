@@ -5,3 +5,9 @@ D:\Desktop\DEV\C#\VS Projects\CSharp Study\GSM\obj\Debug\GSM.csprojResolveAssemb
 D:\Desktop\DEV\C#\VS Projects\CSharp Study\GSM\obj\Debug\GSM.csproj.CoreCompileInputs.cache
 D:\Desktop\DEV\C#\VS Projects\CSharp Study\GSM\obj\Debug\GSM.exe
 D:\Desktop\DEV\C#\VS Projects\CSharp Study\GSM\obj\Debug\GSM.pdb
+C:\Dev\Projects\csharp\test-solution\GSM\bin\Debug\GSM.exe.config
+C:\Dev\Projects\csharp\test-solution\GSM\bin\Debug\GSM.exe
+C:\Dev\Projects\csharp\test-solution\GSM\bin\Debug\GSM.pdb
+C:\Dev\Projects\csharp\test-solution\GSM\obj\Debug\GSM.csproj.CoreCompileInputs.cache
+C:\Dev\Projects\csharp\test-solution\GSM\obj\Debug\GSM.exe
+C:\Dev\Projects\csharp\test-solution\GSM\obj\Debug\GSM.pdb

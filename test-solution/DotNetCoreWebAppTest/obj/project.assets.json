@@ -12224,11 +12224,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Projects\\c#\\test-solution\\DotNetCoreWebAppTest\\DotNetCoreWebAppTest.csproj",
+      "projectUniqueName": "C:\\Dev\\Projects\\csharp\\test-solution\\DotNetCoreWebAppTest\\DotNetCoreWebAppTest.csproj",
       "projectName": "DotNetCoreWebAppTest",
-      "projectPath": "C:\\Dev\\Projects\\c#\\test-solution\\DotNetCoreWebAppTest\\DotNetCoreWebAppTest.csproj",
+      "projectPath": "C:\\Dev\\Projects\\csharp\\test-solution\\DotNetCoreWebAppTest\\DotNetCoreWebAppTest.csproj",
       "packagesPath": "C:\\Users\\vakas\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Projects\\c#\\test-solution\\DotNetCoreWebAppTest\\obj\\",
+      "outputPath": "C:\\Dev\\Projects\\csharp\\test-solution\\DotNetCoreWebAppTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

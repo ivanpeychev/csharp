@@ -5,3 +5,10 @@ D:\Desktop\DEV\C#\VS Projects\CSharp Study\GSM\obj\Debug\Jungle.csprojResolveAss
 D:\Desktop\DEV\C#\VS Projects\CSharp Study\GSM\obj\Debug\Jungle.csproj.CoreCompileInputs.cache
 D:\Desktop\DEV\C#\VS Projects\CSharp Study\GSM\obj\Debug\Jungle.exe
 D:\Desktop\DEV\C#\VS Projects\CSharp Study\GSM\obj\Debug\Jungle.pdb
+C:\Dev\Projects\csharp\test-solution\Jungle\bin\Debug\Jungle.exe.config
+C:\Dev\Projects\csharp\test-solution\Jungle\bin\Debug\Jungle.exe
+C:\Dev\Projects\csharp\test-solution\Jungle\bin\Debug\Jungle.pdb
+C:\Dev\Projects\csharp\test-solution\Jungle\obj\Debug\Jungle.csprojAssemblyReference.cache
+C:\Dev\Projects\csharp\test-solution\Jungle\obj\Debug\Jungle.csproj.CoreCompileInputs.cache
+C:\Dev\Projects\csharp\test-solution\Jungle\obj\Debug\Jungle.exe
+C:\Dev\Projects\csharp\test-solution\Jungle\obj\Debug\Jungle.pdb
