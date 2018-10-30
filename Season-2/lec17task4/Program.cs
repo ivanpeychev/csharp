@@ -32,15 +32,21 @@ class Program
 		{
 			foreach (var item in line)
 			{
-				primalList.Where(i => i == item).
-				if (primalList.Exists(i => i != item))
-				{
-					primalList.Add(item);
-				}
+                foreach (var number in primalList.ToArray())
+                {
+                    if (number == item)
+                    {
+                        primalList.Remove(number);
+                    }
+                    else
+                    {
+                        primalList.Add(item);
+                    }
+                }
 			}
 		}
 
-		primalList.Sort();
-		Console.WriteLine("Sorted primal list: " + string.Join(" ", finalList));
+        primalList.Sort();
+		Console.WriteLine("Sorted primal list: " + string.Join(" ", primalList));
 	}
 }
