@@ -28,25 +28,27 @@ class Program
 			lines.Add(currentLine);
 		}
 
+		string primalString = string.Join(" ", primalList);
+
 		foreach (var line in lines)
 		{
 			foreach (var item in line)
 			{
-                foreach (var number in primalList.ToArray())
-                {
-                    if (number == item)
-                    {
-                        primalList.Remove(number);
-                    }
-                    else
-                    {
-                        primalList.Add(item);
-                    }
-                }
+				if (primalList.Exists(i => i == item))
+				{
+					primalList.RemoveAll(i => i == item);
+				}
+				else
+				{
+					primalList.Add(item);
+				}
 			}
+			Console.WriteLine($"List {lines.FindIndex(0, lines.Count, i => i == line) + 1} {string.Join(" ", line)}");
+			Console.WriteLine($"Primal list {string.Join(" ", primalList)}");
+			Console.WriteLine();
 		}
 
-        primalList.Sort();
+		primalList.Sort();
 		Console.WriteLine("Sorted primal list: " + string.Join(" ", primalList));
 	}
 }
