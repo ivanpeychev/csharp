@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5BB9E628-382F-4813-AB40-472CBE525758}</ProjectGuid>
+    <ProjectGuid>{EC9D240A-781E-4787-924D-8500EE3423E0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>NotesWithList</RootNamespace>
-    <AssemblyName>NotesWithList</AssemblyName>
+    <RootNamespace>lec17t5Winecraft</RootNamespace>
+    <AssemblyName>lec17t5Winecraft</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="lec17t5NoteStatistics.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
