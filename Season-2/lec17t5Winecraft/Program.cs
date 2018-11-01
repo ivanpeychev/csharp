@@ -22,18 +22,50 @@ class Program
 				int left = inputList[j - 1];
 				int middle = inputList[j];
 				int right = inputList[j + 1];
-				ProcessGrapes(ref left, ref middle, ref right);
+				GrowGrapes(ref left, ref middle, ref right);
 				inputList[j - 1] = left;
 				inputList[j] = middle;
 				inputList[j + 1] = right;
 			}
-			Console.WriteLine(string.Join(" ", inputList.Select(el => el < n)));
-			inputList.Remove()
+			Console.WriteLine($"Round {i}: {string.Join(" ", inputList)}");
+			break;
 		}
 	}
 
-	private static void ProcessGrapes(ref int left, ref int middle, ref int right)
+	public static void GrowGrapes(ref int left, ref int middle, ref int right)
 	{
-		//
+		Console.WriteLine($"{left} : {middle} : {right}");
+		if (middle > left && middle > right)
+		{
+			// Greater
+			if (left > 0 && right > 0)
+			{
+				middle += 2;
+				left--;
+				right--;
+			}
+			else if (left > 0 && right < 1)
+			{
+				middle++;
+				left--;
+			}
+			else if (left < 1 && right > 0)
+			{
+				middle++;
+				right--;
+			}
+		}
+		// Lesser
+		else if (middle < left && middle < right)
+		{
+			if (middle > 0)
+			{
+				middle--;
+				right++;
+				left++;
+			}
+		}
+		Console.WriteLine($"{left} : {middle} : {right}");
+		Console.WriteLine();
 	}
 }
