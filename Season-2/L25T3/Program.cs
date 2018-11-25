@@ -16,11 +16,13 @@ class Program
 
 		foreach (var word in myList)
 		{
-			var currentWord = word.ToLower();
-			if (resultList.Contains(word.ToLower()))
-			{
-				
-			}
+            string currentWord = word.ToLower();
+            if (!resultList.Select(i => i.ToLower()).Contains(currentWord))
+            {
+                resultList.Add(word);
+            }
 		}
+
+        Console.WriteLine(string.Join(", ", resultList.Where(i => i.Length < 5).OrderBy(i => i)));
 	}
 }
