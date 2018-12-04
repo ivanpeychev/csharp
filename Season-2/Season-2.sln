@@ -73,8 +73,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L29T0", "L29T0\L29T0.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L29T001", "L29T001\L29T001.csproj", "{CA5C4DD5-6C32-4573-A06B-77B371AB3D41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L25T4", "L25T4\L25T4.csproj", "{EB8FFBFA-E67A-4727-8EDB-AE7565D6A0DE}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -52,11 +52,6 @@ class Program
 					Console.WriteLine("You are not logged in.");
 				}
 			}
-
-			else
-			{
-				Console.WriteLine(UserExists(command));
-			}
 			Console.WriteLine();
 		}
 	}
