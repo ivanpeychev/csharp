@@ -10,8 +10,15 @@ class Program
     {
         string url = "https://introprogramming.info/wp-content/uploads/2018/07/CSharp-Principles-Book-Nakov-v2018.pdf";
 
-        DownloadManager.DownloadFile(url);
-        Console.ReadLine();
+        while (true)
+        {
+            string command = Console.ReadLine();
 
+            if (command == "end")
+                break;
+
+            if (command == "download file")
+               DownloadManager.DownloadFileAsync(url);
+        }
     }
 }
