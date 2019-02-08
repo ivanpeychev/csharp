@@ -12,6 +12,7 @@ public class HTTPServer : IHTTPServer
     public HTTPServer()
     {
         this.tcpListener = new TcpListener(IPAddress.Parse("127.0.0.1"), 4000);
+		this.Start();
     }
     public void Start()
     {
